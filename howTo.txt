@@ -1,0 +1,6 @@
+Przed uruchomieniem poszczególnych plików naley zainstalować zaimportowane moduły.
+
+Projekt wykonany przez:
+ Mikołaj Porada IiE 1 rok, niestacjonarne, grupa 2 
+
+ 20.06.2023
